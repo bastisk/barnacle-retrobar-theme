@@ -1,6 +1,6 @@
 # Barnacle RetroBar Themes
 
-A collection of RetroBar themes inspired by the classic Windows aesthetic. Usea the "Watercolor" default theme as base.
+A collection of RetroBar themes inspired by the classic Windows aesthetic. Uses the "Watercolor" default theme as base.
 
 ## Themes Included
 
