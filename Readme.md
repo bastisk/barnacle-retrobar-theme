@@ -8,10 +8,12 @@ A collection of RetroBar themes inspired by the classic Windows aesthetic.
 A dark theme featuring dark gray backgrounds with light text and blue accent colors. Perfect for low-light environments and reducing eye strain.
 
 ![alt text](./images/image-3.png)
+![alt text](./images/image.png)
 
 ### Barnacle Light
 A light theme featuring light gray backgrounds with dark text and light blue accent colors. Provides a clean, bright appearance similar to classic Windows 98/XP.
 ![alt text](./images/image-2.png)
+![alt text](./images/image-1.png)
 
 ## Installation
 
