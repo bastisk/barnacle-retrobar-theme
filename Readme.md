@@ -25,8 +25,8 @@ C:\Users\<user>\AppData\Local\RetroBar
 
 ### Step-by-Step Instructions
 
-1. Extract/copy the `src/Resources` folder to `C:\Users\<user>\AppData\Local\RetroBar\`
-2. Extract/copy the `src/Themes` folder to `C:\Users\<user>\AppData\Local\RetroBar\`
+1. Download the latest release (https://github.com/bastisk/barnacle-retrobar-theme/releases/latest)
+1. Extract the zip file to `C:\Users\<user>\AppData\Local\RetroBar\`
 3. Launch RetroBar
 4. Go to Settings and select your preferred theme (Barnacle Dark or Barnacle Light)
 
